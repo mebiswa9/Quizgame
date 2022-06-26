@@ -1,0 +1,454 @@
+ 
+  
+
+ [ {
+    "q": "Q1 : Name the folk dance Of Andhra Pradesh ?",
+    "ans": "B : Kuchipudi",
+    "arr": [    "A : Bihu ",
+                 "B : Kuchipudi",
+                 "C : Hip-Hop",
+                 "D : Garba"
+            ]
+    },
+  {
+    "q": "Q2 : Who was the first Prime Minister of India ?",
+    "ans": "C : Jawaharlal Neheru",
+    "arr": [  "A : Indira Gandhi",
+              "B : Jyoti Basu",
+              "C : Jawaharlal Neheru",
+              "D : Dr. Rajendra Prasad"
+        ]
+    
+    },
+   {
+    "q": "Q3 :Name the national bird of USA ?",
+    "ans": "B : Bald Eagle",
+    "arr": [ "A : Peacock",
+            "B : Bald Eagle",
+            "C : Sparrow",
+            "D : White Stork"
+        ]
+    
+    },
+  {
+    "q": "Q4 : Name the deepest Ocean in the World ?",
+    "ans": "C : Pacific Ocean ",
+    "arr": [ "A : Atlantic Ocean",
+            "B : Indian Ocean",
+            "C : Pacific Ocean ",
+            "D : Arctic Ocean"]
+    
+    },
+   {
+        "q": "Q5 : Name the smallest bone in the human body ?",
+        "ans": "B : Stapes",
+        "arr": [ "A : Skull ",
+                "B : Stapes",
+                "C : Scapla",
+                "D : Carpals"]
+    
+    },
+ {
+        "q": "Q6 : Name the gas which is filled in balloons ?",
+           "ans": "A :  Helium",
+            "arr" :[ "A :  Helium",
+                     "B : Nitrogen",
+                     "C : Neon",
+                     "D : Oxygen"
+        ]
+    },
+ {
+        "q": "Q7 :Aizawl is the capital of which state of India ?",
+         "ans": "A : Mizoram",
+    "arr" : ["A : Mizoram",
+     "B : Goa ",
+     "C :Jharkhand  ",
+     "D : Assam"]
+    },
+ {
+        "q": "Q8 : Name the country which has no capital ?",
+        "ans": "D : Nauru",
+    "arr" : ["A : Grece",
+     "B : Brunei",
+     "C : Angola",
+     "D : Nauru"
+    ]
+    },
+ {
+        "q": "Q9 :Bucharest is the capital of which country ?",
+        "ans": "D : Romania",
+    "arr" : ["A : Prague",
+     "B : sofia",
+     "C : Zagreb",
+     "D : Romania"]
+    
+    },
+   {
+        "q": "Q10 : Name the folk dance of Assam ?",
+        "ans": "C : Bihu",
+    "arr" :[ "A : Dappu",
+     "B : Jumar",
+     "C : Bihu",
+     "D : Dhimsa"]
+    
+    },
+   {
+        "q": "Q11 : Name one heavy metal?",
+        "ans": "A : Gold",
+    "arr" :[ "A : Gold",
+     "B : Marcury",
+     "C : Sodium",
+     "D : Magnesium"]
+    
+    },
+   {
+        "q": "Q12 : Name the 4th planet of our solar system ?",
+        "ans": "D : Mars",
+    "arr" : ["A : Eris",
+     "B : Ceres",
+     "C : Mercury",
+     "D : Mars"]
+    
+    },
+   {
+        "q": "Q13 : Name the largest river in the world ?",
+        "ans": "B : Amazon",
+    "arr" :[ "A : Ganga",
+     "B : Amazon",
+     "C : Indus",
+     "D : Brahmaputra"]
+    
+    },
+   {
+        "q": "Q14 : Where is Gir National Park located ?",
+        "ans": "C : Gujarat",
+    "arr" :[ "A : Punjab",
+     "B : Mumbai",
+     "C : Gujarat",
+     "D : Bihar"]
+    
+    },
+   {
+        "q": "Q15 : Name one plant which grows in the Desert ?",
+        "ans": "D : Cactus",
+    "arr" : ["A : Maple",
+     "B : Lily",
+     "C : Cattail",
+     "D : Cactus"]
+    },
+   {
+        "q": "Q16 : Delhi is situated on the bank of which river ?",
+        "ans": "A : Yamuna",
+    "arr" : ["A : Yamuna",
+     "B : Godavari",
+     "C : Ganga",
+     "D : Narmada"]
+    
+    },
+   {
+        "q": "Q17 : Which city is called Pearl City ?",
+         "ans": "C : Hyderabad",
+    "arr" :[ "A : Chennai",
+     "B : Ahmedabad",
+     "C : Hyderabad",
+     "D : Madurai"]
+   
+    },
+   {
+        "q": "Q18 : Victoria Memorial is located in which city ?",
+         "ans": "C : Varanasi",
+    "arr" :[ "A : Kanpur",
+     "B : Kolkata ",
+     "C : Varanasi",
+     "D : Bhopal"]
+    },
+   {
+        "q": "Q19 : Name the brightest planet in the Solar system ?",
+        "ans":"A : Venus",
+    "arr" :[ "A : Venus",
+     "B : Mars",
+     "C : Jupiter",
+     "D : Neptune"]
+    
+    },
+   {
+        "q": "Q20 : How many players are there on the football team ?",
+         "ans":"C : 11",
+    "arr" :[ "A : 13",
+     "B : 9",
+     "C : 11",
+     "D : 12"]
+   
+    },
+   {
+        "q": "Q21 : In Which sea Ganga river falls ?",
+        "ans":"D : Bay of Bengal",
+    "arr" : ["A : Kerala Backwaters",
+     "B : Chilika Lake",
+     "C :Thane Creek ",
+     "D : Bay of Bengal"]
+    
+    },
+   {
+        "q": "Q22 : PV Sindhu is associated with which sport ?",
+        "ans": "D : Badminton",
+    "arr" : ["A : Cricket",
+     "B : Football",
+     "C : Tenis",
+     "D : Badminton"]
+    
+    },
+   {
+        "q": "Q23 : Where will the 2021 Olympic Games be held ?",
+        "ans": "A : Tokyo",
+    "arr" : ["A : Tokyo",
+     "B : Belarush",
+     "C : Dhaka",
+     "D : Romania"]
+    
+    },
+   {
+        "q": "Q24 :Samsung is the company of which country ?",
+        "ans": "A :South Korea",
+    "arr" :[ "A :South Korea",
+     "B :North Koria ",
+     "C : China",
+     "D : North America"]
+    
+    },
+   {
+        "q": "Q25 : What is Mahatma Gandhi called ?",
+        "ans": "C : Father of Nation",
+    "arr" :[ "A : Netaji",
+     "B : Titumir",
+     "C : Father of Nation",
+     "D : Ironman of India"
+    ]
+    },
+   {
+        "q": "Q26 : Which Organ Purify Our Blood ?",
+        "ans": "D : Kidney",
+    "arr" :[ "A : Liver",
+     "B : Lungs",
+     "C : Stomach",
+     "D : Kidney"]
+    
+    },
+   {
+        "q": "Q27 : Highest Dam Of India Is ?",
+        "ans": "C : Tehri Dam",
+    "arr" :[ "A : Bhakra Nangal Dam",
+     "B : Maithon Dam",
+     "C : Tehri Dam",
+     "D : Hirakud Dam"
+    ]
+    },
+   {
+        "q": "Q28 : Largest Desert In The World Is ?",
+        "ans":  "B : Sahara desert",
+    "arr" :[ "A : Thar desert",
+     "B : Sahara desert",
+     "C : Gobi desert",
+     "D : Kalahari desert"]
+    
+    },
+   {
+        "q": "Q29 : Longest River In The World Is ?",
+        "ans":"B : Nile",
+    "arr" : ["A : Ganga",
+     "B : Nile",
+     "C : Brahmaputra",
+     "D : Godabari"]
+    
+    },
+   {
+        "q": "Q30 : The National Song of India is ?",
+        "ans": "A : Vande Mataram",
+    "arr" :[ "A : Vande Mataram",
+     "B : Amer Sonar Bangla",
+     "C : Jana Gana Mana",
+     "D : Maa Tuhje Salam"]
+    
+    },
+   {
+        "q": "Q31 : Olympics Games Are Held After Every ?",
+        "ans": "C : 4 years",
+    "arr" :[ "A : 2years",
+     "B : 3years",
+     "C : 4 years",
+     "D : 5years"]
+    
+    },
+   {
+        "q": "Q32 : Which Is India’S Largest Freshwater Lake ?",
+        "ans": "C : Wular Lake",
+    "arr" : ["A : Dal Lake",
+     "B : Pulicat Lake",
+     "C : Wular Lake",
+     "D : Nakki Lake"]
+    
+    },
+   {
+        "q": "Q33 : Which Is The Most Sensitive Organ In Our Body ?",
+         "ans": "B : Skin",
+    "arr" : ["A : Brain",
+     "B : Skin",
+     "C : Kidney",
+     "D : Lungs"]
+   
+    },
+   {
+        "q": "Q34 : Who Invented The Computer ?",
+        "ans": "D : Charles Babbage",
+    "arr" : ["A : Albart Ienestine",
+     "B : Ijac Neowton",
+     "C : Herman Hollerith",
+     "D : Charles Babbage"]
+    
+    },
+   {
+        "q": "Q35 : Which Country Are The Giza Pyramids In ?",
+        "ans": "D : Egypt",
+    "arr" : ["A : Afganisthan",
+     "B : Russia",
+     "C : Japan",
+     "D : Egypt"]
+    
+    },
+   {
+        "q": "Q36 : A Figure With 8 Sides Is Called ?",
+        "ans": "A : Octagon",
+    "arr" :[ "A : Octagon",
+     "B : Paragon",
+     "C : Triogon",
+     "D : Hexagon"]
+    
+    },
+   {
+        "q": "Q37 : Most Widely Spoken Language In The World Is ?",
+        "ans": "D : Mandarin (Chinese)",
+    "arr" :[ "A : English",
+     "B : Hibru",
+     "C : Hindi",
+     "D : Mandarin (Chinese)"]
+    
+    },
+   {
+        "q": "Q38 : Capital Of Uttarakhand Is ?",
+        "ans":"B : Dehradun",
+    "arr" : ["A : Dhaka ",
+     "B : Dehradun",
+     "C : Himachal ",
+     "D : Patna "]
+    
+    },
+   {
+        "q": "Q39 : Goitre Is Caused Due To The Deficiency Of ?",
+        "ans":  "C : Iodine",
+    "arr" :[ "A : Sodium",
+     "B : Potasium",
+     "C : Iodine",
+     "D : Salfate"
+    ]
+    },
+   {
+        "q": "Q40 : Largest Island In The World Is ?",
+        "ans": "A : Green Land",
+    "arr" : ["A : Green Land",
+     "B : Borneo ",
+     "C : Sumatra",
+     "D : Great Barlin"]
+    
+    },
+   {
+        "q": "Q41 : Who Is The Founder Of Microsoft ?",
+        "ans": "A : Bill Gates",
+    "arr" : ["A : Bill Gates",
+     "B : Mark Zuckerberg",
+     "C : Jack Dorsey",
+     "D : Elon Mask"]
+    
+    },
+   {
+        "q": "Q42 :Who Is The Founder Of Facebook ?",
+        "ans": "B : Mark Zuckerberg",
+     "arr" :[ "A : Bill Gates ",
+    "B : Mark Zuckerberg",
+    "C : Jack Dorsey",
+    "D : Elon Mask"]
+    
+    },
+   {
+        "q": "Q43 : Which Bird Can Not Fly ?",
+        "ans": "D :Ostrich",
+    "arr" :[ "A : Humming",
+     "B : Parrot",
+     "C : Penguin",
+     "D :Ostrich"]
+    
+    },
+   {
+        "q": "Q44 : Which Is The Tallest Waterfall In The World ?",
+        "ans": "B : Angel Falls",
+    "arr" :[ "A : Niagara Falls",
+     "B : Angel Falls",
+     "C : Dudhsagar Falls",
+     "D : Tugela Falls"]
+    
+    },
+   {
+        "q": "Q45 : Which Place Is Known As The Tea Garden Of India ?",
+        "ans": "C :Assam",
+    "arr" :[ "A : Kolkata",
+     "B : Delhi",
+     "C :Assam",
+     "D : Mumbai"
+    ]
+    },
+   {
+        "q": "Q46 : Which Fruit Gives Us Oil ?",
+        "ans": "C : Coconut",
+    "arr" : ["A : Mango",
+     "B : Papaya",
+     "C : Coconut",
+     "D : Orange"]
+    
+    },
+   {
+        "q": "Q47 : Which Animal Do Not Make Any Sound ?",
+        "ans":"B : Giraffe",
+    "arr" : ["A : Zebra",
+     "B : Giraffe",
+     "C : Dog",
+     "D : Ox"]
+    
+    },
+   {
+        "q": "Q48 : Who Wrote The Book ‘Rama Charita Manas ?",
+        "ans": "A : Tulsi Das",
+    "arr" :[ "A : Tulsi Das",
+     "B : Balmiki",
+     "C : Krittibas Ojha",
+     "D : Bedbyash"]
+    
+    },
+   {
+        "q": "Q49 : Which Is The Largest City Of Nepal ?",
+         "ans": "C : Kathmandu",
+    "arr" : ["A : Pokhara ",
+     "B : Lalitpur",
+     "C : Kathmandu",
+     "D : Birat Nagar"]
+   
+    },
+     {
+        "q": "Q50 : Which City Is Known As “City Of Blood” In India ?",
+        "ans": "A :Tezpur",
+    "arr" : ["A :Tezpur",
+     "B : Jaipur",
+     "C : Kolkata",
+     "D : Mumbai"]
+    
+    }
+
+]
